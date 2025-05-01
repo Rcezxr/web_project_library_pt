@@ -239,14 +239,11 @@
   align-items: center;
   flex-direction: column;
   gap: 10px;
-  z-index: 1;
 }
 
 .person_name_feynman {
-  position: absolute;
   top: 0px;
   left: 319px;
-  z-index: 2;
 }
 
 .person_name_burbidge {
@@ -266,7 +263,7 @@
 
 .person_name_tarter {
   top: 79px;
-  left: 170px;
+  left: 159px;
 }
 
 .person__image {
