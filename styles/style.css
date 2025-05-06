@@ -355,12 +355,13 @@
 .footer__columns_content_hours {
   display: flex;
   flex-direction: column;
-  gap: 5px;
+  gap: 20px;
 }
 
 .footer__columns_content_social {
   display: flex;
   flex-direction: column;
+  gap: 20px;
 }
 
 .footer__logo {
@@ -372,7 +373,7 @@
 .footer__column-heading {
   font-size: 20px;
   font-weight: bold;
-  margin-bottom: 5px;
+  margin-bottom: 20px;
   margin-right: 80px;
 }
 
